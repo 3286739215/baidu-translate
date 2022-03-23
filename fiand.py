@@ -14,7 +14,7 @@ from main import *
 
 # listt=['en']
 listt = ['zh','cht', 'en', 'jp', 'vie', 'kor', 'th', 'de','fra','spa','tr']
-# with open("zh-cn", 'r', encoding='utf-8') as fp:
+# with open("source", 'r', encoding='utf-8') as fp:
 #     list1 = fp.readlines()
 #     fp.close()
 
